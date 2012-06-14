@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: EWicket
+Bundle-SymbolicName: EWicket;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Activator: ewicket.EWicketActivator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.core.resources,
+ org.eclipse.ui.ide,
+ org.eclipse.jdt.ui;bundle-version="3.7.2",
+ org.eclipse.wst.html.ui;bundle-version="1.0.602",
+ org.eclipse.jdt.core;bundle-version="3.7.3",
+ org.eclipse.wst.sse.ui;bundle-version="1.3.2",
+ org.eclipse.jface.text;bundle-version="3.7.2"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Eclipse-LazyStart: true

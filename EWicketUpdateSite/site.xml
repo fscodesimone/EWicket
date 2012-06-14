@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/EWicketFeature_1.0.0.201206141247.jar" id="EWicketFeature" version="1.0.0.201206141247">
+      <category name="eWicket"/>
+   </feature>
+   <category-def name="eWicket" label="eWicket eclipse plugin">
+      <description>
+         eWicket eclipse plugin for wicket web framework
+      </description>
+   </category-def>
+</site>
